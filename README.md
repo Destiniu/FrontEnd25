@@ -1,7 +1,7 @@
 Creator: Destina Irem Yasar
 Date: 22.06.2025
 
-Link to a video of your project running: https://youtu.be/XQrtSp88tHM
+Link to a video of my project running: https://youtu.be/XQrtSp88tHM
 
 Link to my project website: https://destiniu.github.io/FrontEnd25/
 
